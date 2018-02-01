@@ -51,7 +51,7 @@ Other Important Dependencies:
 * [images](./images) - folder, images for this document.
 * [src](./src) - source code.
 * [writeup.md](./writeup.md) – project description in details
-* [video.mp4](.video.mp4) – video-report (one track circle with best parameters).
+* [video.mp4](./video.mp4) – video-report (one track circle with best parameters).
 
 #### Source code
 
